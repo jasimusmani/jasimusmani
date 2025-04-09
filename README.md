@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasimusmani
 - 👀 I’m interested in Machine Learning
-- 🌱 I'm currently MASc student at Aerospace Robotics Lab, Concordia University, Montreal
+- 🌱 Data Scientist/Machine Learning Engineer
 - 📫 You can reach me at https://www.linkedin.com/in/jasimusmani/
 
 <!---
